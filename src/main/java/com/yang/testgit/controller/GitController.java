@@ -13,6 +13,7 @@ public class GitController {
 
         System.out.println("hot-fix commit -----");
 
+        System.out.println("remote repository pull test");
 
     }
 
